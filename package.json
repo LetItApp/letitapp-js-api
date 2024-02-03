@@ -1,0 +1,36 @@
+{
+  "name": "letitapp-js-api",
+  "version": "0.0.1",
+  "description": "This library provides a convenient way to interact with the LetItApp API, allowing seamless integration of notifications into your JS applications.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "node ./node_modules/jsdoc/jsdoc.js -c ./jsdoc.json LetItAppApi.js Notification.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LetItApp/letitapp-js-api.git"
+  },
+  "keywords": [
+    "fetch",
+    "letitapp",
+    "api",
+    "http",
+    "rest"
+  ],
+  "author": "LetItApp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LetItApp/letitapp-js-api/issues"
+  },
+  "homepage": "https://github.com/LetItApp/letitapp-js-api#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.23.10",
+    "eslint": "^8.56.0",
+    "eslint-plugin-jsdoc": "^48.0.4",
+    "jsdoc": "^4.0.2",
+    "taffydb": "^2.7.3",
+    "tui-jsdoc-template": "^1.2.2"
+  }
+}
