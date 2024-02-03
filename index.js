@@ -1,7 +1,7 @@
-import { LetItAppApi } from "./LetItAppApi";
-import { Notification } from "./Notification";
+import { LetItAppApi } from "./LetItAppApi.js";
+import { Notification } from "./Notification.js";
 
 export {
 	LetItAppApi,
 	Notification
-}
+};

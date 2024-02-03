@@ -1,3 +1,5 @@
+import fetch from 'node-fetch';
+
 /**
  * Represents a LetItApp API client.
  * 

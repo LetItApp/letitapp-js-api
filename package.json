@@ -32,5 +32,8 @@
     "jsdoc": "^4.0.2",
     "taffydb": "^2.7.3",
     "tui-jsdoc-template": "^1.2.2"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
