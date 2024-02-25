@@ -29,7 +29,7 @@ For detailed information on how to use the library and available API endpoints, 
 
 You can install the LetItApp JS API Library using NPM. Run the following command in your project's root directory:
 ```bash
-npm i letitapp/letitapp-js-api
+npm i @letitapp/js-api
 ```
 
 ## Generating documentation
